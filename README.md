@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/ArkNovum/main/assets/logo.png" width="250">
+<img src="https://github.com/ikiziki/ArkNovum/blob/main/Assets/IMG_2120.png" width="250">
 
 # ArkNovum
 
