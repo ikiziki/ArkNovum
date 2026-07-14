@@ -18,7 +18,7 @@
 
 <br>
 
-[Documentation](https://github.com/ikiziki/ArkNovum/tree/main/Docs) •
+[Documentation](https://github.com/ikiziki/ArkNovum/tree/main/Docs#readme) •
 [Roadmap](https://github.com/ikiziki/ArkNovum/blob/main/Roadmap.md) •
 [Contributing](https://github.com/ikiziki/ArkNovum/blob/main/Contributing.md) •
 [Discord](https://discord.gg/TeR443Mjp)
