@@ -20,7 +20,7 @@
 
 [Documentation](#) •
 [Roadmap](#) •
-[Contributing](#) •
+[Contributing](contributing.md) •
 [Discord](#)
 
 </div>
