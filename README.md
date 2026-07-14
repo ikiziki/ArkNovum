@@ -20,7 +20,7 @@
 
 [Documentation](#) •
 [Roadmap](#) •
-[Contributing](contributing.md) •
+[Contributing](https://github.com/ikiziki/ArkNovum/blob/main/Contributing.md) •
 [Discord](#)
 
 </div>
