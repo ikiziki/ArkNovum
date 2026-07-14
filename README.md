@@ -1,3 +1,32 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/ArkNovum/main/assets/logo.png" width="250">
+
+# ArkNovum
+
+### The Open Source Hobby Archive Platform
+
+**Preserve what you build. Document what you love. Share your journey.**
+
+<br>
+
+![Status](https://img.shields.io/badge/status-in%20development-orange)
+![License](https://img.shields.io/badge/license-source%20available-blue)
+![Self Hosted](https://img.shields.io/badge/self--hosted-yes-success)
+![Plugins](https://img.shields.io/badge/plugin%20system-modular-purple)
+![Docker](https://img.shields.io/badge/docker-supported-blue)
+
+<br>
+
+[Documentation](#) •
+[Roadmap](#) •
+[Contributing](#) •
+[Discord](#)
+
+</div>
+
+---
+
 # ArkNovum
 
 ## The Open Source Hobby Archive Platform
