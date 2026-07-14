@@ -18,7 +18,7 @@
 
 <br>
 
-[Documentation](#) •
+[Documentation](https://github.com/ikiziki/ArkNovum/blob/main/Documentation.md) •
 [Roadmap](#) •
 [Contributing](https://github.com/ikiziki/ArkNovum/blob/main/Contributing.md) •
 [Discord](#)
