@@ -19,7 +19,7 @@
 <br>
 
 [Documentation](https://github.com/ikiziki/ArkNovum/blob/main/Documentation.md) •
-[Roadmap](#) •
+[Roadmap](https://github.com/ikiziki/ArkNovum/blob/main/Roadmap.md) •
 [Contributing](https://github.com/ikiziki/ArkNovum/blob/main/Contributing.md) •
 [Discord](#)
 
